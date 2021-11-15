@@ -1,7 +1,7 @@
 # Machine Learning by Stanford University | Coursera
 [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)'s Machine Learning course on [Coursera](https://www.coursera.org/learn/machine-learning).
 
-Includes lecture notes organized by weekly topics. I highly recommend taking this course if you are interested about Machine Learning. Andrew Ng is an excellent professor and the course content is amazing! 
+Includes lecture notes organized by weekly topics. I highly recommend taking this course if you are interested about Machine Learning. Andrew Ng is an excellent professor and the course content is amazing!
 
 
 ### Lecture Notes
